@@ -1,0 +1,15 @@
+.inverted,
+.yellow_background {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.inverted{
+    background-color: rgb(34, 23, 23);
+    color:rgb(250,250,250);
+    font-weight: bold;
+}
+
+.yellow_background{
+    background-color: rgba(235, 217, 54, 0.911);
+}
